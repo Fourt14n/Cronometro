@@ -1,0 +1,14 @@
+/home/hebert/Documentos/Cronometro/bin/Debug/net8.0/Cronometro
+/home/hebert/Documentos/Cronometro/bin/Debug/net8.0/Cronometro.deps.json
+/home/hebert/Documentos/Cronometro/bin/Debug/net8.0/Cronometro.runtimeconfig.json
+/home/hebert/Documentos/Cronometro/bin/Debug/net8.0/Cronometro.dll
+/home/hebert/Documentos/Cronometro/bin/Debug/net8.0/Cronometro.pdb
+/home/hebert/Documentos/Cronometro/obj/Debug/net8.0/Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/hebert/Documentos/Cronometro/obj/Debug/net8.0/Cronometro.AssemblyInfoInputs.cache
+/home/hebert/Documentos/Cronometro/obj/Debug/net8.0/Cronometro.AssemblyInfo.cs
+/home/hebert/Documentos/Cronometro/obj/Debug/net8.0/Cronometro.csproj.CoreCompileInputs.cache
+/home/hebert/Documentos/Cronometro/obj/Debug/net8.0/Cronometro.dll
+/home/hebert/Documentos/Cronometro/obj/Debug/net8.0/refint/Cronometro.dll
+/home/hebert/Documentos/Cronometro/obj/Debug/net8.0/Cronometro.pdb
+/home/hebert/Documentos/Cronometro/obj/Debug/net8.0/Cronometro.genruntimeconfig.cache
+/home/hebert/Documentos/Cronometro/obj/Debug/net8.0/ref/Cronometro.dll
